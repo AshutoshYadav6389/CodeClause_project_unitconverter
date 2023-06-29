@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: tahoma;
+}
+h1{
+    text-align: center;
+    width: 82.5%;
+    margin: 35px;
+    color: black;
+    background-color: lime;
+}
+#container{
+    margin: 35px;
+    width: 80%;
+    text-align: center;
+    background-color: lime;
+    border-radius: 10px;
+    padding :20px;
+}
+input-div{
+    display: inline-block;
+}
+.inpt{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 30px;
+    width: 200px;
+    text-align: center;
+    border-radius: 10px; 
+}
+label{
+    font-size: 20px;
+
+}
